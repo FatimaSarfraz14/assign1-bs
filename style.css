@@ -1,0 +1,173 @@
+
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.nav-link{
+  margin-left: 50px;
+  
+  font-size: 15px;
+}
+.navbar-toggler{
+border: none;
+background-color: transparent;
+}
+.btn-close{
+  background-color: white;
+}
+.drop:hover{
+color: tomato;
+}
+.slider{
+
+  width: 100%;
+  height: 100%;
+}
+.hr1{
+  color: red;
+}
+.navbar{
+    position: fixed;
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color: black ;
+}
+.img1{
+    background-image: url(img/img1.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:900px;
+font-family: 'Times New Roman', Times, serif;
+
+    
+}
+
+#elder{
+    position: relative;
+
+}
+
+.bbu{
+    width: 150px;
+    height: 40px;
+    background-color: #3c90f7;
+    border-radius: 20px;
+    border: 2px solid #3c90f7;
+
+}
+.bbu:hover{
+    background-color: white;
+    color: #3c90f7;
+    border: 2px solid #3c90f7;
+}
+
+
+.ma >p{
+    font-size: 13px;
+}
+.ma >h6{
+font-size: 18px;
+}
+
+
+.time{
+    height: auto;
+    background-color: #3c90f7;
+    color: white;
+}
+
+.inn{
+    width: 100%;
+    height: 330px;
+}
+.in{
+height: 200px;
+width: 300px;
+
+}
+.mnb{
+    background-color: #3c90f7;
+   
+}
+.hi{
+    background-image: url(img/img7\ copy.jpg);
+    background-size: cover;
+    height:800px;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    position: relative;
+   
+}
+
+.hii{
+    background-color: rgba(0, 0,0, 0.5);
+   height:  100%;
+   width:  100%;
+  z-index: 1;
+   position: absolute;
+   top: 0px;
+left: 0px;
+}
+.text{
+    position: relative;
+    z-index: 2;
+    color: white;
+}
+.text >h1{
+    font-size: 60px;
+   
+}
+.imv{
+    width: 80px;
+    height: 80px;
+}
+#img9{
+     max-width: 100%;
+  height: 100px;
+ position: absolute;
+ margin-top: -100px;
+ margin-left: -2%;
+  border-radius: 50%;
+}
+
+.car{
+  border: 1px solid white;
+    width: 350px;
+    height: 500%;
+    gap: 30px;
+}
+
+.carf{
+    background-color: #3c90f7;
+    color: white;
+}
+.carf1{
+    color: white;
+    height: 50px;
+    width: 500px;
+    border-radius: 30px;
+}
+.carf1:hover{
+    color: black;
+}
+.str{
+    width: auto;
+    text-align: center;
+}
+
+.li{
+    text-decoration: none;
+    color: black;
+}
+.li:hover{
+    color: #3c90f7;
+}
+.tick:hover{
+    color:deepskyblue;
+}
+ 
